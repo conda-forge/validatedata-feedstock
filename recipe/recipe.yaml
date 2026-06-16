@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.6.0"
+  version: "0.6.1"
 
 package:
   name: validatedata
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/v/validatedata/validatedata-${{ version }}.tar.gz
-  sha256: de00b879854f6c8010bded74aae397814b2ee2193be3b409e8ad85a28d57322d
+  sha256: 16b9825e044b389decabdd3ccf6021fbe1bd478bcd6237e1866bbc67c1edfde4
 
 build:
   number: 0
